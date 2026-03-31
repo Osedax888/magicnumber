@@ -1,0 +1,53 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+background-color: black;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+.tarjeta{
+    background-color:turquoise;
+    border-radius: 15px;
+    width: 350px;
+    padding: 35px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 100px;
+
+
+}
+
+
+#titulo{
+color: #ffffff;
+}
+
+#parrafo{
+color: #ffffff;
+}
+
+button:hover{
+    background-color: darkred;
+}
+
+#numero{
+    background-color:orange;
+    border: 2px; solid #bbb;
+    margin-right: 15px;
+
+
+}
+
+.intentos{
+    column-rule: currentColor;
+    margin-bottom:10px
+
+}
+
